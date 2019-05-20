@@ -1,0 +1,44 @@
+body{
+    font-family: 'Open Sans',sans-serif;
+}
+
+nav{
+  list-style: none;
+  text-align: right;
+  /* background-color: rgba(202, 196, 212, 0.3); */
+  height: 50px;
+  line-height: 300%;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(70, 70, 67);
+}
+
+li{
+  display: inline-block;
+}
+
+i{
+  display: inline-block;
+}
+
+.iconos{
+  text-align: right;
+}
+
+h1{
+  font-size: 375%;
+}
+
+iframe{
+  width: 100%;
+}
+
+div ul li{
+  display: block;
+}
+
+h3{
+  color: rgb(55, 187, 205);
+}

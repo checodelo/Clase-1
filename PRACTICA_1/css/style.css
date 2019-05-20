@@ -1,0 +1,31 @@
+body{
+  font-family: verdana;
+  width: 700px;
+  font-size: 18px;
+  position: relative;
+  margin: auto;
+}
+body .dir{
+  font-size: 18px;
+}
+h1{
+font-size: 37px;
+/* letter-spacing: 46px; */
+line-height: 46px;
+font-family: tahoma;
+color:#000000;
+}
+h3{
+  font-size: 25px;
+  line-height: 38px;
+  font-family: helvetica;
+}
+h2{
+  color:#666666;
+  /* font-size: 18px; */
+}
+p{
+  color:#333;
+  line-height: 27px;
+  /* font-size: 18px; */
+}

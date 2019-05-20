@@ -1,0 +1,68 @@
+body{
+  /* background-image:url(../img/emilia-about.jpg);
+  background-repeat: no-repeat;
+  background-size: 1080px 680px;
+  background-position: right top; */
+  font-family: 'Open Sans',sans-serif;
+}
+
+.enca{
+  background-image: url(../img/emilia-music-top.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 7em;
+  display: inline-block;
+  width: 100%;
+}
+
+ul{
+  list-style: none;
+  text-align: right;
+  background-color: rgba(171, 178, 191, 0.3);
+  background-position: center;
+  height: 50px;
+  line-height: 300%;
+  /* align-items: center;
+  align-content: center; */
+  position: relative;
+  top: 3px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(43, 43, 41);
+}
+
+li{
+  display: inline-block;
+}
+
+i{
+  display: inline-block;
+}
+
+.iconos{
+  text-align: right;
+}
+
+h1{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+h2{
+  margin-top: 6%;
+}
+
+#primer{
+  margin-left: 3%;
+  color: rgb(145, 156, 162);
+}
+
+#segundo{
+  line-height: 3em;
+}
+
+#mult{
+  /* width: 65%; */
+}
